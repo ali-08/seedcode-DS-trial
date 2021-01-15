@@ -15,6 +15,13 @@ To run this notebook
 1. Execute ipython notebook from the command line or terminal.
 1. Click on seedcodeTrialFinal.ipynb on the IPython Notebook to get the results or seedcodeTrialWorking.ipynb to see the working.
 
+#### Dependencies:
+* [NumPy](http://www.numpy.org/)
+* [IPython](http://ipython.org/)
+* [Pandas](http://pandas.pydata.org/)
+* [Scikit-Learn](http://scikit-learn.org/stable/)
+* [Matplotlib](http://matplotlib.org/)
+
 ### Goal of this task
 * To build a classifier with a good accuracy (assumed to be 80%+)
 * To get the PPV (precision) of 90%.
